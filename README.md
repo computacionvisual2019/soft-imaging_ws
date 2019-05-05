@@ -29,13 +29,18 @@ Descompriman el archivo `*.zip` en la caperta de `libraries` de su sketchbook (e
 
 Complete la tabla:
 
-| Integrante | github nick |
-|------------|-------------|
-|            |             |
+| Integrante      | github nick |
+|-----------------|-------------|
+|Juan Castelblanco | jscastelblancoh |
+|Nicolas Ricardo | nicolasenciso |
+|Camilo Rodriguez | UNhcrodriguezl |
 
 ## Discusión
 
-(describa brevemente las actividades realizadas y los resultados obtenidos)
+El trabajo se divide en tres carpetas de la siguiente forma:
+punto1_3_4: Correspondiente a la implementación de la escala de grises, el histograma con la segmentación interactiva reflejada en la imágen
+punto2: La aplicación de las máscaras desenfoque, enfoque, bordes, realce.
+punto5: La medición de los fps para 4 videos simultaneos con dos de las máscaras mencionadas anteriormente y la escala de grises.
 
 ## Entrega
 
